@@ -182,7 +182,7 @@ The notebook creates figures and CSV files for checking the reported analysis.
 ### Main Figures
 
 - `wordle_example_game.png`
-- `candidate_filtering_example.png`
+- `candidate_filtering_pipeline.png`
 - `simulation_flowchart.png`
 - `entropy_partition_comparison.png`
 - `baseline_solver_comparison.png`

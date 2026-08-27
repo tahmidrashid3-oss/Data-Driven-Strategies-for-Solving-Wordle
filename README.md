@@ -8,7 +8,7 @@ These reproducibility materials contain the computational resources used to repr
 
 The main analysis is contained in the Jupyter notebook:
 
-`02_wordle_project.ipynb`
+`wordle_reproducibility_notebook.ipynb`
 
 The notebook implements and evaluates five Wordle-solving strategies under a common simulation framework:
 
@@ -98,7 +98,7 @@ jupyter notebook
 
 Then open:
 
-`02_wordle_project.ipynb`
+`wordle_reproducibility_notebook.ipynb`
 
 and select **Run All**.
 
@@ -150,7 +150,7 @@ Uses the fixed opening word `SLATE` and then entropy-based selection over the re
 
 Includes the exhaustive-versus-approximate entropy feasibility experiment, entropy walkthrough, repeated runtime benchmarking, candidate-set profiling and performance-runtime analysis.
 
-### 11-14. Overall Results and Statistical Analysis
+### 11–14. Overall Results and Statistical Analysis
 
 Produces the overall solver comparison, failure and hard-case analyses, Wilcoxon signed-rank tests and final summary tables.
 
